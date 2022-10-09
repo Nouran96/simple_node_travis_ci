@@ -4,7 +4,7 @@ This is a very simple, bare-bones NodeJS project created for you to use with Doc
 
 ## Local Setup
 
-**_Note_**: This is only needed if you want to run the app locally. You don't need to install the dependencies or run the server if you are running the code inside a Docker container.
+**_Note_**: This is only needed if you want to run the app locally. You don't need to install the dependencies or run the server if you are running the code inside a Docker container
 
 - Install dependencies: `npm install`
 - Run server: `node server.js`
